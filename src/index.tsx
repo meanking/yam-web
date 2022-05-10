@@ -5,10 +5,14 @@ import "./index.css";
 import './plugins/i18n';
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
+import { Provider } from 'react-redux'
+import { store } from './state'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Provider store={store}>
+      <App />
+    </Provider>
   </React.StrictMode>,
   document.getElementById("root")
 );
