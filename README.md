@@ -30,9 +30,7 @@ yarn start
 
 ## Contributions
 
-If you are interested to contribute feel free to [open an issue](https://github.com/yam-finance/yam-www/issues) or [submit PR](https://github.com/yam-finance/yam-www/pulls) to the `develop` branch. If an issue has the tag `assigned` means it has already been assigned to someone.
-
-For any other questions or bugs that you like to submit please join [the chat](https://discord.gg/TgFpmDj) to speak about it.
+Contribution was closed.
 
 ## License
 
